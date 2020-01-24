@@ -2,7 +2,6 @@ import pyodbc
 import psycopg2
 import time
 import math
-from datetime import date, timedelta, datetime
 
 # connect to msSQL
 server = 'ec2-63-33-209-197.eu-west-1.compute.amazonaws.com'
