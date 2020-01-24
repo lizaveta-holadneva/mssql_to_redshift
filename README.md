@@ -7,8 +7,8 @@ The last step is to insert multiple rows into Redshift. On conflict function ign
 
 ### Installing
 pip3 install pyodbc
+
 pip3 install psycopg2
-pip3 install
 
 ### Libraries
 * pyodbc
